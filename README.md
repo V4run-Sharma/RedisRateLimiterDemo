@@ -1,6 +1,6 @@
 # Redis RateLimiter Demo
 
-Exercises every case of [`spring-boot-starter-redis-ratelimiter`](https://central.sonatype.com/artifact/io.github.v4run-sharma/spring-boot-starter-redis-ratelimiter) 2.1.0 on Spring Boot 3.5.
+Exercises every case of [`spring-boot-starter-redis-ratelimiter`](https://github.com/V4run-Sharma/spring-boot-starter-redis-ratelimiter) 2.1.0 ([Maven Central](https://central.sonatype.com/artifact/io.github.v4run-sharma/spring-boot-starter-redis-ratelimiter)) on Spring Boot 3.5.
 
 ## Run
 
